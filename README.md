@@ -4,7 +4,7 @@ Final Project Fall '21
 
 Project title: Forest Fire and Fuel Emissions and Land Temperature
 
-Hypothesis:
+Hypothesis: Forest fires are becoming more freqent and intense every season with climate change. This research aims to analyze the trend of forest fire and fuel emissions and land temperature over time, as well as investigate the spatial distributions of forest fires, fuel emissions and temperature. These results will support research on forest fire risk and climate change.
 
 Analysis Plan:
 Plot Fire and Fuel Emissions over time
@@ -17,4 +17,4 @@ https://search.earthdata.nasa.gov/downloads/7466543230?p=!C1701034766-GES_DISC&p
 
 Land Temperature: https://psl.noaa.gov/data/gridded/data.ghcncams.html 
 
-Binder link:# rces-final-fall21
+Binder link:
