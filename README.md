@@ -33,4 +33,4 @@ Burning Index data: https://zenodo.org/record/5754302
 
 <br>
 
-**Binder link:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pangeo-data/pangeo-docker-images/2021.09.30?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FSophKJ%252Frces-final-fall21%252Fblob%252Fmain%252FFireFuelEmissions.ipynb%26urlpath%3Dtree%252FFireFuelEmissions.ipynb%252FFireFuelEmissions.ipynb%26branch%3Dmain)
+**Binder link:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pangeo-data/pangeo-docker-images/2021.09.30?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FSophKJ%252Frces-final-fall21%26urlpath%3Dtree%252Frces-final-fall21%252FFireFuelEmissions.ipynb%26branch%3Dmain)
