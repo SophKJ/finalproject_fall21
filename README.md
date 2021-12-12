@@ -8,16 +8,16 @@ Final Project Fall '21
 
 ---------------
 
-**Hypothesis:** Forest fires are becoming more freqent and intense every season with climate change. This research aims to analyze the trend of forest fires and fuel emissions, with a closer look at the Okanogan Complex Fire in 2015. Trends in maximum temperature and precipitation will be analyzed, to examine their relationship to fire behavior, as well as the spatial distributions of forest fires, fuel emissions and their burning index. These results will support research on forest fire risk and climate change. <br>
+**Hypothesis:** Forest fires are becoming more freqent and intense every season with climate change. This research aims to analyze the trend of forest fires and fuel emissions, with a closer look at the Okanogan Complex Fire in 2015. Trends in maximum temperature and precipitation will be analyzed to examine their relationship with fire behavior, as well as the spatial distributions of forest fires, fuel emissions and their burning index. These results will support research on forest fire risk and climate change. <br>
 
 **Analysis Plan:**
-1. Explore number of fires and acres burned in the US 
+1. Explore the number of fires and acres burned in the US 
 2. Plot Fire and Fuel Emissions over time
 3. Plot maximum temperature over time
 4. Plot precipitation trends over time
 5. Plot temperature and precipitation anomalies
 6. Take a closer look at these trends during the Okanogan Complex Fire of 2015 as a case study
-7. Explore burning index both globally and in the US during the OCF fire <br>
+7. Explore burning index both globally and in the US during the Okanogan Complex Fire of 2015 <br>
 
 **Data Resources:**
 Number of fires and acres burned in the US: https://www.nifc.gov/sites/default/files/document-media/TotalFires.pdf
